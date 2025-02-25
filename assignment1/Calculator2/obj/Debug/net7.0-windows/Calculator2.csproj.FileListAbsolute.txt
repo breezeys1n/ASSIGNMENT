@@ -1,0 +1,16 @@
+D:\Project\c#\1.1\Calculator2\bin\Debug\net7.0-windows\Calculator2.exe
+D:\Project\c#\1.1\Calculator2\bin\Debug\net7.0-windows\Calculator2.deps.json
+D:\Project\c#\1.1\Calculator2\bin\Debug\net7.0-windows\Calculator2.runtimeconfig.json
+D:\Project\c#\1.1\Calculator2\bin\Debug\net7.0-windows\Calculator2.dll
+D:\Project\c#\1.1\Calculator2\bin\Debug\net7.0-windows\Calculator2.pdb
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.Form1.resources
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.csproj.GenerateResource.cache
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.AssemblyInfoInputs.cache
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.AssemblyInfo.cs
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.csproj.CoreCompileInputs.cache
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.dll
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\refint\Calculator2.dll
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.pdb
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\Calculator2.genruntimeconfig.cache
+D:\Project\c#\1.1\Calculator2\obj\Debug\net7.0-windows\ref\Calculator2.dll

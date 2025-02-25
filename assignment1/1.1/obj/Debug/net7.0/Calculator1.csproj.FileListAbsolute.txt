@@ -1,0 +1,14 @@
+D:\Project\c#\1.1\1.1\bin\Debug\net7.0\Calculator1.exe
+D:\Project\c#\1.1\1.1\bin\Debug\net7.0\Calculator1.deps.json
+D:\Project\c#\1.1\1.1\bin\Debug\net7.0\Calculator1.runtimeconfig.json
+D:\Project\c#\1.1\1.1\bin\Debug\net7.0\Calculator1.dll
+D:\Project\c#\1.1\1.1\bin\Debug\net7.0\Calculator1.pdb
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.AssemblyInfoInputs.cache
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.AssemblyInfo.cs
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.csproj.CoreCompileInputs.cache
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.dll
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\refint\Calculator1.dll
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.pdb
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\Calculator1.genruntimeconfig.cache
+D:\Project\c#\1.1\1.1\obj\Debug\net7.0\ref\Calculator1.dll
