@@ -1,0 +1,14 @@
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\bin\Debug\net7.0\素数因子.exe
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\bin\Debug\net7.0\素数因子.deps.json
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\bin\Debug\net7.0\素数因子.runtimeconfig.json
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\bin\Debug\net7.0\素数因子.dll
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\bin\Debug\net7.0\素数因子.pdb
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.AssemblyInfoInputs.cache
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.AssemblyInfo.cs
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.csproj.CoreCompileInputs.cache
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.dll
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\refint\素数因子.dll
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.pdb
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\素数因子.genruntimeconfig.cache
+C:\Users\15783\Desktop\assignment\assignment2\assignment2\assignment2\obj\Debug\net7.0\ref\素数因子.dll
